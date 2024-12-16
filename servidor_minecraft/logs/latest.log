@@ -1156,3 +1156,52 @@ java.lang.IllegalStateException: Field f_47437_ is not private and an instance f
 [16Dec2024 23:01:48.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sangredel9 issued server command: /kill Sangredel9
 [16Dec2024 23:01:48.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was killed
 [16Dec2024 23:01:48.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Killed Sangredel9]
+[16Dec2024 23:04:27.525] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 8c9559df-747a-4430-be6e-4d4d8817028f
+[16Dec2024 23:04:27.525] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 8c9559df-747a-4430-be6e-4d4d8817028f
+[16Dec2024 23:04:44.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukylucas has made the advancement [Mother Nature's Bounty]
+[16Dec2024 23:04:44.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukylucas has made the advancement [Is it a Fruit or is it a Nut?]
+[16Dec2024 23:05:24.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukylucas has made the advancement [Doing my Part]
+[16Dec2024 23:06:13.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 has made the advancement [Monster Hunter]
+[16Dec2024 23:06:31.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 has made the advancement [Sweet Dreams]
+[16Dec2024 23:06:33.529] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> ZZZZZZZZZZZ
+[16Dec2024 23:06:34.012] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:34.189] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:34.361] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:34.546] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:34.751] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:34.986] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:35.267] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:35.530] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:35.727] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:35.918] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:36.095] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:36.391] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:36.586] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:36.703] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:36.862] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:37.018] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:37.170] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:37.504] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:37.800] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:38.270] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:38.426] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> Z
+[16Dec2024 23:06:56.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was shot by Skeleton
+[16Dec2024 23:07:25.937] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[16Dec2024 23:07:25.950] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[16Dec2024 23:07:25.965] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[16Dec2024 23:09:51.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was slain by Zombie Villager
+[16Dec2024 23:10:30.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukylucas has made the advancement [Ice Bucket Challenge]
+[16Dec2024 23:11:29.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was slain by Zombie
+[16Dec2024 23:21:14.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sangredel9 issued server command: /gamemode creative
+[16Dec2024 23:21:14.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Set own game mode to Creative Mode]
+[16Dec2024 23:21:46.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukylucas was shot by Skeleton
+[16Dec2024 23:22:14.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukylucas fell from a high place
+[16Dec2024 23:22:21.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sangredel9 issued server command: /gamemode survival
+[16Dec2024 23:22:21.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Set own game mode to Survival Mode]
+[16Dec2024 23:22:23.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukylucas fell from a high place
+[16Dec2024 23:22:32.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukylucas fell from a high place
+[16Dec2024 23:22:59.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukylucas was shot by Skeleton
+[16Dec2024 23:23:09.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lukylucas lost connection: Disconnected
+[16Dec2024 23:23:09.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukylucas left the game
+[16Dec2024 23:25:17.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sangredel9 lost connection: Disconnected
+[16Dec2024 23:25:17.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 left the game
